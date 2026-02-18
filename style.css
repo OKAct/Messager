@@ -1,0 +1,95 @@
+.label
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: grey;
+    height: 500px;
+    width: 500px;
+    color:darkblue;
+    font-size: 25px;
+    
+
+}
+
+#model
+{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#name
+{
+    width: 300px;
+    border-radius: 100px;
+}
+
+.user_list
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: grey;
+    height: 500px;
+    width: 300px;
+    position: fixed;
+    top:30px;
+    left: 30px;
+    
+
+}
+
+
+
+.pop
+{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 545px;
+    width: 500px;
+    position: fixed;
+    background-color: grey;
+    
+}
+
+#nick   
+{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+}
+
+.sub
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    
+}
+.button
+{ 
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+}
+
+.input
+{
+    border-radius: 10px;
+    width: 320px;
+    background-color: black;    
+    color: white;
+}
